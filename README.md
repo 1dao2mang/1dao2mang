@@ -15,7 +15,7 @@
 
 - 🇻🇳 I'm a Software Engineering student at **HUTECH University**, Ho Chi Minh City
 - 💻 I build web apps with **React**, **TypeScript**, and **Node.js**
-- 🏅 Competed in **Olympic Tin Học Sinh Viên — Procon 2025**
+- 🏅 Participated in **Olympic Tin Học Sinh Viên — Procon 2025** (Top 16)
 - 🔭 Currently working on [IELTS_WEB](https://github.com/1dao2mang/IELTS_WEB) — a full-stack IELTS practice platform
 - 🌱 Also into IELTS learning & game development
 - ⚡ Fun fact: `1 dao 2 mang` = always prepared! 🎒
@@ -36,9 +36,9 @@
 
 | Award | Competition | Year |
 |:---|:---|:---:|
-| 🥉 Giải Khuyến Khích | **Procon 2025** — Olympic Tin Học Sinh Viên | 2025 |
 | 🥉 Giải Khuyến Khích | **CJ Design Your Future** | 2025 |
 | 🥉 Giải Khuyến Khích | **Procon HUTECH 2025** | 2025 |
+| 🎖️ Top 16 | **Procon 2025** — Olympic Tin Học Sinh Viên | 2025 |
 
 ---
 
