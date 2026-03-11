@@ -156,6 +156,9 @@
 
 ### 📫 Connect with me
 
+[![Email](https://img.shields.io/badge/Email-levankhoa2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levankhoa2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lê_Văn_Khoa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%AA-v%C4%83n-khoa-31961916b/)
+[![Facebook](https://img.shields.io/badge/Facebook-Đang_Off_Rồi_Bữa_Khác_Lại-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dangoffroibuakhaclai?locale=vi_VN)
 [![GitHub](https://img.shields.io/badge/GitHub-1dao2mang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1dao2mang)
 [![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-EA4335?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City)
 
