@@ -54,14 +54,27 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Cloud, Deploy & CI/CD**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools & APIs**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Player4Me](https://img.shields.io/badge/API-Player4Me-FF6B6B?style=for-the-badge)
+![ImgBB](https://img.shields.io/badge/API-ImgBB-4CAF50?style=for-the-badge)
 
 </div>
 
@@ -80,11 +93,11 @@
 
 <br/><br/>
 
-<a href="https://github.com/1dao2mang/CNPM-Hutech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=CNPM-Hutech&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
 <a href="https://github.com/1dao2mang/22DTHD8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=22DTHD8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+</a>
+<a href="https://github.com/1dao2mang/game_plus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=game_plus&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
 </a>
 
 </div>
@@ -97,9 +110,8 @@
 |:---:|:---|:---|:---:|
 | 1 | [**IELTS_WEB**](https://github.com/1dao2mang/IELTS_WEB) | 🌐 Full-stack IELTS practice platform — Listening, Reading, Writing, Speaking | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 | 2 | [**Reroll-DoMiXi**](https://github.com/1dao2mang/Reroll-DoMiXi) | 🎲 Reroll Videos/Images with tier ranking system (F → SSS+) | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 3 | [**CNPM-Hutech**](https://github.com/1dao2mang/CNPM-Hutech) | 📐 Software Engineering course project | ![Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white) |
-| 4 | [**22DTHD8**](https://github.com/1dao2mang/22DTHD8) | 💰 Personal expense management application | ![Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white) |
-| 5 | [**game_plus**](https://github.com/1dao2mang/game_plus) | 🐍 Classic Snake Game | ![Game](https://img.shields.io/badge/-Game-FF6B6B?style=flat-square&logo=unity&logoColor=white) |
+| 3 | [**22DTHD8**](https://github.com/1dao2mang/22DTHD8) | 💰 Personal expense management application | ![Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white) |
+| 4 | [**game_plus**](https://github.com/1dao2mang/game_plus) | 🐍 Classic Snake Game | ![Game](https://img.shields.io/badge/-Game-FF6B6B?style=flat-square&logo=unity&logoColor=white) |
 
 ---
 
