@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Xin%20Chào!%20👋%20Mình%20là%20Khoa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20|%20Ho%20Chi%20Minh%20City%20🇻🇳&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=190&section=header&text=Hi%20I'm%20Khoa%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-year%20Software%20Engineering%20Student%20|%20Frontend%20/%20Full-stack%20Web%20Developer&descSize=18&descAlignY=55&descColor=8b949e"/>
 
-<!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/1dao2mang?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)](https://github.com/1dao2mang?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=1dao2mang&style=for-the-badge&color=238636&labelColor=0d1117)
 
@@ -11,42 +9,21 @@
 
 ---
 
-## Hi! I'm Khoa 👋
+## About Me
 
-- 🇻🇳 I'm a Software Engineering student at **HUTECH University**, Ho Chi Minh City
-- 💻 I build web apps with **React**, **TypeScript**, and **Node.js**
-- 🏅 Participated in **Olympic Tin Học Sinh Viên — Procon 2025** (Top 16)
-- 🔭 Currently working on [IELTS_WEB](https://github.com/1dao2mang/IELTS_WEB) — a full-stack IELTS practice platform
-- 🌱 Also into IELTS learning & game development
-- ⚡ Fun fact: `1 dao 2 mang` = always prepared! 🎒
+I'm a final-year Software Engineering student at **HUTECH University** with a strong interest in **frontend** and **full-stack web development**.
 
----
-
-## 🎓 Education
-
-| | |
-|:---|:---|
-| 🏫 **HUTECH University** | Công Nghệ Phần Mềm (Software Engineering) |
-| 📋 **Lớp** | 22DTHD8 |
-| 📅 **Niên Khóa** | 2022 – 2026 |
+- Building practical web applications with **React**, **TypeScript**, and **Node.js**
+- Strong foundation in **OOP**, **Data Structures**, **Algorithms**, and **problem solving**
+- Ranked **Top 16** in **Procon Vietnam 2025**
+- Currently working on **[IELTS_WEB](https://github.com/1dao2mang/IELTS_WEB)**, a full-stack IELTS practice platform
+- Seeking **Software Engineer Intern / Frontend Developer Intern** opportunities
 
 ---
 
-## 🏅 Awards
+## Tech Stack
 
-| Award | Competition | Year |
-|:---|:---|:---:|
-| 🥉 Giải Khuyến Khích | **CJ Design Your Future** | 2025 |
-| 🥉 Giải Khuyến Khích | **Procon HUTECH 2025** | 2025 |
-| 🎖️ Top 16 | **Procon 2025** — Olympic Tin Học Sinh Viên | 2025 |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,116 +31,65 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Cloud, Deploy & CI/CD**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Tools & APIs**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Player4Me](https://img.shields.io/badge/API-Player4Me-FF6B6B?style=for-the-badge)
-![ImgBB](https://img.shields.io/badge/API-ImgBB-4CAF50?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [IELTS_WEB](https://github.com/1dao2mang/IELTS_WEB)
+
+Full-stack IELTS practice platform with modules for **Listening, Reading, Writing, and Speaking**, along with practice workflows, progress tracking, and content management.
+
+### [Reroll-DoMiXi](https://github.com/1dao2mang/Reroll-DoMiXi)
+
+A media reroll and ranking application with tier-based classification and interactive user flows.
+
+### [game_plus](https://github.com/1dao2mang/game_plus)
+
+A classic Snake game project built to practice game logic, interaction handling, and clean implementation.
+
+---
+
+## Achievements
+
+- **Top 16** — Procon Vietnam 2025 (National Olympiad in Informatics)
+- **Consolation Prize** — CJ Design Your Future 2025
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=1dao2mang&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dao2mang&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
 ---
 
-## 🚀 Pinned Projects
+## Contact
+
+- **Email:** [levankhoa2004@gmail.com](mailto:levankhoa2004@gmail.com)
+- **LinkedIn:** [Lê Văn Khoa](https://www.linkedin.com/in/l%C3%AA-v%C4%83n-khoa-31961916b/)
+- **GitHub:** [1dao2mang](https://github.com/1dao2mang)
 
 <div align="center">
-
-<a href="https://github.com/1dao2mang/IELTS_WEB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=IELTS_WEB&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-<a href="https://github.com/1dao2mang/Reroll-DoMiXi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=Reroll-DoMiXi&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/1dao2mang/22DTHD8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=22DTHD8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-<a href="https://github.com/1dao2mang/game_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1dao2mang&repo=game_plus&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
-</div>
-
----
-
-## 📂 All Projects
-
-| # | Project | Description | Tech |
-|:---:|:---|:---|:---:|
-| 1 | [**IELTS_WEB**](https://github.com/1dao2mang/IELTS_WEB) | 🌐 Full-stack IELTS practice platform — Listening, Reading, Writing, Speaking | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 2 | [**Reroll-DoMiXi**](https://github.com/1dao2mang/Reroll-DoMiXi) | 🎲 Reroll Videos/Images with tier ranking system (F → SSS+) | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 3 | [**22DTHD8**](https://github.com/1dao2mang/22DTHD8) | 💰 Personal expense management application | ![Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white) |
-| 4 | [**game_plus**](https://github.com/1dao2mang/game_plus) | 🐍 Classic Snake Game | ![Game](https://img.shields.io/badge/-Game-FF6B6B?style=flat-square&logo=unity&logoColor=white) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/1dao2mang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1dao2mang&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/1dao2mang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dao2mang&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/1dao2mang">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1dao2mang&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/1dao2mang">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=1dao2mang&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636&border_color=30363d&custom_title=📈%20Contribution%20Graph" />
-</a>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1dao2mang&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Connect with me
-
-[![Email](https://img.shields.io/badge/Email-levankhoa2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levankhoa2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lê_Văn_Khoa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%AA-v%C4%83n-khoa-31961916b/)
-[![Facebook](https://img.shields.io/badge/Facebook-Đang_Off_Rồi_Bữa_Khác_Lại-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dangoffroibuakhaclai?locale=vi_VN)
-[![GitHub](https://img.shields.io/badge/GitHub-1dao2mang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1dao2mang)
-[![Location](https://img.shields.io/badge/📍_Ho_Chi_Minh_City-Vietnam-EA4335?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=100&section=footer"/>
 </div>
