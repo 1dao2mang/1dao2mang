@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "",
+  basePath: "/1dao2mang",
   images: {
     unoptimized: true,
   },
