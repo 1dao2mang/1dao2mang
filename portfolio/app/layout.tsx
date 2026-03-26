@@ -2,6 +2,7 @@
 
 import { useState, useMemo } from "react";
 import { LocaleContext, getTranslator, type Locale } from "./i18n";
+import ThemeProvider from "./components/ThemeProvider";
 import "./globals.css";
 
 export default function RootLayout({
@@ -18,7 +19,7 @@ export default function RootLayout({
   );
 
   return (
-    <html lang={locale}>
+    <html lang={locale} data-theme="dark">
       <head>
         <title>Lê Văn Khoa — Software Engineer</title>
         <meta
@@ -27,9 +28,11 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <LocaleContext.Provider value={ctx}>
-          {children}
-        </LocaleContext.Provider>
+        <ThemeProvider>
+          <LocaleContext.Provider value={ctx}>
+            {children}
+          </LocaleContext.Provider>
+        </ThemeProvider>
       </body>
     </html>
   );

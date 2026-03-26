@@ -10,11 +10,12 @@ export type Locale = "en" | "vi";
 const translations: Record<Locale, Record<string, string>> = {
   en: {
     // Navbar
-    "nav.about": "About",
+    "nav.home": "Home",
     "nav.skills": "Skills",
-    "nav.awards": "Awards",
     "nav.projects": "Projects",
+    "nav.about": "About",
     "nav.contact": "Contact",
+    "nav.blog": "Blog",
 
     // Hero
     "hero.badge": "📍 Ho Chi Minh City, Vietnam",
@@ -22,6 +23,7 @@ const translations: Record<Locale, Record<string, string>> = {
       "Software Technology Student at HUTECH University, passionate about building modern web applications and cloud-native solutions.",
     "hero.cta.projects": "View Projects",
     "hero.cta.github": "GitHub ↗",
+    "hero.cta.cv": "Download CV",
     "hero.typing.0": "Building web applications 🚀",
     "hero.typing.1": "Cloud infrastructure lover ☁️",
     "hero.typing.2": "Open-source contributor 💚",
@@ -29,7 +31,7 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // About
     "about.label": "// about me",
-    "about.title": "Who I Am",
+    "about.title": "About Me",
     "about.p1":
       "I'm <strong>Lê Văn Khoa</strong>, a Software Technology student at <strong>Ho Chi Minh City University of Technology</strong> (HUTECH).",
     "about.p2":
@@ -73,7 +75,7 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Projects
     "projects.label": "// featured work",
-    "projects.title": "Projects",
+    "projects.title": "My Projects",
     "projects.0.desc":
       "An AI-powered recruitment platform with smart CV analysis, job matching, AI interview simulations, and auto-generated cover letters — built with polished UI, Framer Motion animations, and mock data.",
     "projects.1.desc":
@@ -87,9 +89,54 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Contact
     "contact.label": "// get in touch",
-    "contact.title": "Contact",
+    "contact.title": "Contact Me",
     "contact.text":
       "I'm always open to new opportunities, collaborations, and interesting conversations. Feel free to reach out!",
+    "contact.form.name": "Your Name",
+    "contact.form.email": "Your Email",
+    "contact.form.message": "Your Message",
+    "contact.form.send": "Send Message",
+    "contact.form.success": "Message sent! I'll get back to you soon.",
+
+    // Subscribe
+    "subscribe.label": "// stay updated",
+    "subscribe.title": "Subscribe",
+    "subscribe.text": "Get notified about new articles, projects, and updates. No spam, ever.",
+    "subscribe.placeholder": "your@email.com",
+    "subscribe.btn": "Subscribe",
+    "subscribe.success": "Thanks for subscribing! 🎉",
+
+    // Blog
+    "blog.label": "// technical docs",
+    "blog.title": "Blog & Articles",
+    "blog.readMore": "Read more →",
+
+    // Search
+    "search.placeholder": "Search projects, skills, articles...",
+    "search.noResults": "No results found.",
+
+    // Login
+    "login.title": "Welcome Back",
+    "login.subtitle": "Sign in to access exclusive content",
+    "login.username": "Username",
+    "login.password": "Password",
+    "login.submit": "Sign In",
+    "login.error.empty": "Please fill in all fields.",
+    "login.logout": "Sign Out",
+
+    // Chat
+    "chat.welcome": "Hi! 👋 Welcome to my portfolio. How can I help you?",
+    "chat.autoReply": "Thanks for your message! I'll respond as soon as possible. You can also reach me at levankhoa2004@gmail.com 📧",
+    "chat.status": "Usually replies within a few hours",
+    "chat.inputPlaceholder": "Type a message...",
+
+    // YouTube
+    "youtube.label": "YouTube",
+    "youtube.subscribers": "subscribers",
+
+    // Theme
+    "theme.dark": "Dark",
+    "theme.light": "Light",
 
     // Footer
     "footer.text": "Built with Next.js & Framer Motion.",
@@ -97,11 +144,12 @@ const translations: Record<Locale, Record<string, string>> = {
 
   vi: {
     // Navbar
-    "nav.about": "Giới thiệu",
+    "nav.home": "Trang chủ",
     "nav.skills": "Kỹ năng",
-    "nav.awards": "Giải thưởng",
     "nav.projects": "Dự án",
+    "nav.about": "Giới thiệu",
     "nav.contact": "Liên hệ",
+    "nav.blog": "Blog",
 
     // Hero
     "hero.badge": "📍 TP. Hồ Chí Minh, Việt Nam",
@@ -109,6 +157,7 @@ const translations: Record<Locale, Record<string, string>> = {
       "Sinh viên Công nghệ Phần mềm tại Đại học HUTECH, đam mê xây dựng ứng dụng web hiện đại và giải pháp cloud.",
     "hero.cta.projects": "Xem dự án",
     "hero.cta.github": "GitHub ↗",
+    "hero.cta.cv": "Tải CV",
     "hero.typing.0": "Xây dựng ứng dụng web 🚀",
     "hero.typing.1": "Yêu thích hạ tầng đám mây ☁️",
     "hero.typing.2": "Đóng góp mã nguồn mở 💚",
@@ -116,7 +165,7 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // About
     "about.label": "// giới thiệu",
-    "about.title": "Tôi là ai",
+    "about.title": "Về tôi",
     "about.p1":
       "Tôi là <strong>Lê Văn Khoa</strong>, sinh viên ngành Công nghệ Phần mềm tại <strong>Đại học Công nghệ TP.HCM</strong> (HUTECH).",
     "about.p2":
@@ -160,7 +209,7 @@ const translations: Record<Locale, Record<string, string>> = {
 
     // Projects
     "projects.label": "// dự án tiêu biểu",
-    "projects.title": "Dự án",
+    "projects.title": "Dự án của tôi",
     "projects.0.desc":
       "Nền tảng tuyển dụng thông minh ứng dụng AI: phân tích CV, gợi ý việc làm phù hợp, phỏng vấn mô phỏng AI, và tạo thư giới thiệu tự động — giao diện đẹp mắt với Framer Motion.",
     "projects.1.desc":
@@ -177,6 +226,51 @@ const translations: Record<Locale, Record<string, string>> = {
     "contact.title": "Liên hệ",
     "contact.text":
       "Tôi luôn sẵn sàng đón nhận cơ hội mới, hợp tác và những cuộc trò chuyện thú vị. Đừng ngần ngại liên hệ với tôi!",
+    "contact.form.name": "Họ & Tên",
+    "contact.form.email": "Email của bạn",
+    "contact.form.message": "Nội dung tin nhắn",
+    "contact.form.send": "Gửi tin nhắn",
+    "contact.form.success": "Tin nhắn đã gửi! Tôi sẽ phản hồi sớm nhất.",
+
+    // Subscribe
+    "subscribe.label": "// cập nhật mới",
+    "subscribe.title": "Đăng ký nhận tin",
+    "subscribe.text": "Nhận thông báo về bài viết, dự án mới. Không spam.",
+    "subscribe.placeholder": "email@cuaban.com",
+    "subscribe.btn": "Đăng ký",
+    "subscribe.success": "Cảm ơn bạn đã đăng ký! 🎉",
+
+    // Blog
+    "blog.label": "// bài viết kỹ thuật",
+    "blog.title": "Blog & Bài viết",
+    "blog.readMore": "Đọc thêm →",
+
+    // Search
+    "search.placeholder": "Tìm dự án, kỹ năng, bài viết...",
+    "search.noResults": "Không tìm thấy kết quả.",
+
+    // Login
+    "login.title": "Chào mừng trở lại",
+    "login.subtitle": "Đăng nhập để xem nội dung đặc biệt",
+    "login.username": "Tên đăng nhập",
+    "login.password": "Mật khẩu",
+    "login.submit": "Đăng nhập",
+    "login.error.empty": "Vui lòng điền đầy đủ thông tin.",
+    "login.logout": "Đăng xuất",
+
+    // Chat
+    "chat.welcome": "Xin chào! 👋 Chào mừng đến portfolio của tôi. Tôi có thể giúp gì cho bạn?",
+    "chat.autoReply": "Cảm ơn tin nhắn của bạn! Tôi sẽ phản hồi sớm nhất có thể. Bạn cũng có thể liên hệ qua levankhoa2004@gmail.com 📧",
+    "chat.status": "Thường phản hồi trong vài giờ",
+    "chat.inputPlaceholder": "Nhập tin nhắn...",
+
+    // YouTube
+    "youtube.label": "YouTube",
+    "youtube.subscribers": "người đăng ký",
+
+    // Theme
+    "theme.dark": "Tối",
+    "theme.light": "Sáng",
 
     // Footer
     "footer.text": "Xây dựng với Next.js & Framer Motion.",
